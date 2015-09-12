@@ -1,5 +1,5 @@
 # StatsdInterceptor
-Interceptor for CodeCop (http://getcodecop.com) that automatically integrates Statsd onto intercepted methods. 
+Interceptor for CodeCop (http://getcodecop.com) that automatically integrates <b>Statsd</b> onto intercepted methods. 
 
 This interceptor automatically adds these metrics to each intercepted method:
 - "times_called" - Counter for the number of times that method has been called.
