@@ -6,8 +6,8 @@ This interceptor automatically adds these metrics to each intercepted method:
 - "num_errors" - Counter for the number of exceptions that method had.
 - "total_executiontime" - Counter for how many time it took for that method to execute (ms).
 
-NOTE: The "num_errors" counter will only be available if you have a Developer or Ultimate License for CodeCop. See the product site for details:
-http://getcodecop.com
+NOTE: The "num_errors" counter will only be available if you have a Developer or Ultimate License for CodeCop. See the product features page for details:
+http://getcodecop.com/#features
 
 
 # Instructions
