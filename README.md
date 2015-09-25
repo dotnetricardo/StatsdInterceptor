@@ -53,7 +53,7 @@ If you want to use this Interceptor on just some methods, inside the copconfig.j
 
     ],
     "GlobalInterceptors": [],
-    "Key":"Your product key or leave empty for free product mode"
+    "Key":"Your product key or leave empty for free product mode, limited to intercepting 25 methods"
 }
 ```
 <b>Configuration</b>
